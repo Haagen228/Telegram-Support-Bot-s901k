@@ -14,7 +14,7 @@ mysql_user = 'SupportBotUser'
 mysql_pw   = '<YOUR PASSWORD>'
 
 # Support Chat (Chat ID)
-support_chat = '402211829'            # Example: -1001429781350 | To find out your channels ID use: https://t.me/getidsbot
+support_chat = '-1001380434591'            # Example: -1001429781350 | To find out your channels ID use: https://t.me/getidsbot
 
 # Misc
 time_zone           = 'GMT+2'   # Supports time zone
